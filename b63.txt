@@ -1,0 +1,20 @@
+vol=63	
+statpage1=38
+*publawlist	3	25
+*reorgplans	26	26
+*privlawlist	27	36
+*conreslist	37	37
+*proclamations	38	38
+publaw-1	40	40
+publaw-2	41	41
+publaw-3	42
+publaw-4	42
+publaw-5	42
+publaw-6	42
+publaw-7	43
+publaw-8	43
+publaw-9	43
+publaw-10	44
+publaw-11	44
+publaw-12	46
+publaw-13	47	47
